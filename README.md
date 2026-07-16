@@ -18,7 +18,6 @@ This project presents an interactive Excel analytics solution designed to evalua
 * **Data Dictionary Implementation:** Structured column definitions for seamless onboarding.
 * **Dynamic KPI Blocks:** High-level metrics showing Total Sales, Net Profit, and Item Count instantly.
 * **Interactive Slicers:** Connected multi-pivot visuals allowing managers to filter by *Year*, *Region*, and *Product Category* with one click.
-* **Automation:** Embedded custom VBA routines to standardize gridline views and layout auto-fitting.
 
 ---
 
